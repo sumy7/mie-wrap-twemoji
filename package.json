@@ -1,5 +1,5 @@
 {
-  "name": "mie-warp-twemoji",
+  "name": "mie-wrap-twemoji",
   "version": "1.0.0",
   "description": "markdown-it-emoji wrapper to use twemoji renderer.",
   "main": "index.js",
